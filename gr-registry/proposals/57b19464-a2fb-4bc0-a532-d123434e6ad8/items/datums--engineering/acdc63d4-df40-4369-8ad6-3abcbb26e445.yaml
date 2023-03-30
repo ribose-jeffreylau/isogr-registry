@@ -1,0 +1,20 @@
+id: acdc63d4-df40-4369-8ad6-3abcbb26e445
+dateAccepted: 2023-03-30T10:05:38.075Z
+status: valid
+data:
+  name: ''
+  identifier: 0
+  informationSources: []
+  remarks: ''
+  description: ''
+  aliases: []
+  scope: ''
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  originDescription: ''
+  releaseDate: ''
+  coordinateReferenceEpoch: null
