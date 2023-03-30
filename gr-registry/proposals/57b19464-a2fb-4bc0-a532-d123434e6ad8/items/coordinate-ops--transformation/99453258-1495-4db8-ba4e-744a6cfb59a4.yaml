@@ -1,0 +1,20 @@
+id: 99453258-1495-4db8-ba4e-744a6cfb59a4
+dateAccepted: 2023-03-30T10:04:38.315Z
+status: valid
+data:
+  name: ''
+  identifier: 0
+  informationSources: []
+  remarks: ''
+  description: ''
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  operationVersion: ''
+  parameters: []
+  accuracy:
+    value: 0
+    unitOfMeasurement: ''
