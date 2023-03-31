@@ -1,6 +1,6 @@
 id: 57b19464-a2fb-4bc0-a532-d123434e6ad8
 timeStarted: 2023-03-30T09:46:16.052Z
-timeEdited: 2023-03-30T10:05:38.075Z
+timeEdited: 2023-03-31T07:13:54.664Z
 justification: add
 submittingStakeholderGitServerUsername: ribose-jeffreylau
 items:
@@ -16,5 +16,7 @@ items:
     type: addition
   /datums--engineering/acdc63d4-df40-4369-8ad6-3abcbb26e445.yaml:
     type: addition
+  /coordinate-ops--transformation/c6576156-ac4a-48e3-8c59-66082d7c93ed.yaml:
+    type: clarification
 state: draft
 registerVersion: '1.1'
