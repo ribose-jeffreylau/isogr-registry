@@ -1,0 +1,22 @@
+id: 2d56a841-b234-432d-b544-47f68b6506e3
+dateAccepted: 2023-03-31T07:36:39.061Z
+status: valid
+data:
+  name: ''
+  identifier: 0
+  informationSources: []
+  remarks: ''
+  description: ''
+  accuracy:
+    value: 0
+    unitOfMeasurement: ''
+  operationVersion: ''
+  aliases: []
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  scope: ''
+  coordinateOperations: []
