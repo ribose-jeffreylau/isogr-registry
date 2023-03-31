@@ -2,10 +2,13 @@ id: 34b34aa0-5d88-4a0f-a531-c8d252c52eaa
 dateAccepted: 2023-03-31T09:39:15.452Z
 status: valid
 data:
-  name: ''
+  name: sddsfsf
   identifier: 0
   informationSources: []
   remarks: ''
   description: ''
-  aliases: []
+  aliases:
+    - dffs
+    - dfs
+    - sdfsdf
   coordinateSystemAxes: []
