@@ -1,0 +1,20 @@
+id: 9096981a-a1d9-4d1c-af9e-a872961914fd
+dateAccepted: 2023-03-31T10:05:15.446Z
+status: valid
+data:
+  name: ''
+  identifier: 0
+  informationSources: []
+  remarks: ''
+  description: ''
+  extent:
+    name: ''
+    'n': 0
+    e: 0
+    s: 0
+    w: 0
+  operationVersion: ''
+  parameters: []
+  accuracy:
+    value: 0
+    unitOfMeasurement: ''
