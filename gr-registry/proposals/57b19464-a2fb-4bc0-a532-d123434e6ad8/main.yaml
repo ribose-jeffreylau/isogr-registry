@@ -1,6 +1,6 @@
 id: 57b19464-a2fb-4bc0-a532-d123434e6ad8
 timeStarted: 2023-03-30T09:46:16.052Z
-timeEdited: 2023-04-03T10:22:36.828Z
+timeEdited: 2023-04-03T10:22:57.061Z
 justification: add
 submittingStakeholderGitServerUsername: ribose-jeffreylau
 items:
@@ -71,6 +71,8 @@ items:
   /coordinate-sys--cartesian/da0c0936-6c9d-412a-930f-57ea4dcb2b40.yaml:
     type: addition
   /coordinate-sys--ellipsoidal/d67df96e-5690-455e-8f6c-fe95c53a7977.yaml:
+    type: addition
+  /coordinate-sys--vertical/cc0e25d3-a81c-41c2-b061-92a2bd5016ca.yaml:
     type: addition
 state: draft
 registerVersion: '1.1'
