@@ -2,3 +2,4 @@ title: registry
 datasets:
   gr-registry: true
   testgl: true
+  test-2382: true
