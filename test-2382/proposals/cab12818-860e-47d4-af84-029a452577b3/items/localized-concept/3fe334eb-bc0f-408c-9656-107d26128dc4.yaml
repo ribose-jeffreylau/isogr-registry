@@ -8,6 +8,12 @@ data:
       normative_status: preferred
   language_code: eng
   definition:
-    - content: New definition
+    - content: New definition test 1
   notes: []
   examples: []
+  usageInfo: Usage note test 1
+  authoritativeSource:
+    - ref: Enter reference… test 1
+      clause: Clause test 1
+      original: Original test 1
+      link: link test 1
