@@ -3,3 +3,5 @@ dateAccepted: 2023-11-17T05:58:20.138Z
 status: valid
 data:
   identifier: Test identifier
+  localizedConcepts:
+    eng: 3fe334eb-bc0f-408c-9656-107d26128dc4
