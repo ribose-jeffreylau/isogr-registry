@@ -6,10 +6,24 @@ data:
     - designation: New designation test 1
       type: expression
       normative_status: preferred
-      partOfSpeech: adjective
+      partOfSpeech: noun
       geographicalArea: Hello
       isParticiple: true
       isAbbreviation: true
+      gender: common
+      grammaticalNumber: singular
+    - type: expression
+      designation: test designation
+      partOfSpeech: noun
+      gender: masculine
+      grammaticalNumber: mass
+      geographicalArea: Hello
+    - type: expression
+      designation: test designation 2
+    - type: symbol
+      designation: test des 3
+    - type: prefix
+      designation: test des 4
   language_code: eng
   definition:
     - content: New definition test 1
