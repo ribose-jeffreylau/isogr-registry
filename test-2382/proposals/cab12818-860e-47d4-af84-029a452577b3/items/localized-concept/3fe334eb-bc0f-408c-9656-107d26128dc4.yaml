@@ -6,9 +6,14 @@ data:
     - designation: New designation test 1
       type: expression
       normative_status: preferred
+      partOfSpeech: adjective
+      geographicalArea: Hello
+      isParticiple: true
+      isAbbreviation: true
   language_code: eng
   definition:
     - content: New definition test 1
+    - content: New definition 2
   notes: []
   examples: []
   usageInfo: Usage note test 1
