@@ -22,8 +22,18 @@ data:
       designation: test designation 2
     - type: symbol
       designation: test des 3
-    - type: prefix
+    - type: expression
       designation: test des 4
+      partOfSpeech: adjective
+      isParticiple: true
+    - type: expression
+      designation: test des 5
+      partOfSpeech: adverb
+      isAbbreviation: true
+      isParticiple: true
+    - type: expression
+      designation: test des 6
+      partOfSpeech: adjective
   language_code: eng
   definition:
     - content: New definition test 1
