@@ -1,14 +1,14 @@
 
-name: Unnamed registry
+name: ISO 2382
 stakeholders:
-  - role: submitter
-    name: owner entity name here...
-    gitServerUsername: VCS username here...
+  - role: owner
+    name: Jeffrey Lau
+    gitServerUsername: ribose-jeffreylau
     parties:
-      - name: owner entity party name here...
+      - name: Ribose
         contacts:
           - label: email
-            value: owner entity party contact email here...
+            value: jeffrey.lau@ribose.com
 version:
   id: '1'
   timestamp: 2023-10-19T07:46:30.697Z
