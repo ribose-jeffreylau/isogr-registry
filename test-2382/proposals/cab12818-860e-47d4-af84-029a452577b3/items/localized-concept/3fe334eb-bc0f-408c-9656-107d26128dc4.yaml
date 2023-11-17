@@ -3,7 +3,7 @@ dateAccepted: 2023-11-17T06:05:11.178Z
 status: valid
 data:
   terms:
-    - designation: New designation
+    - designation: New designation test 1
       type: expression
       normative_status: preferred
   language_code: eng
