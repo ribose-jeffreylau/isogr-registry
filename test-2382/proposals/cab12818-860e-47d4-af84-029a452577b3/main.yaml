@@ -1,6 +1,6 @@
 id: cab12818-860e-47d4-af84-029a452577b3
 timeStarted: 2023-11-17T03:54:36.449Z
-timeEdited: 2023-11-17T07:14:49.395Z
+timeEdited: 2023-11-24T06:20:18.238Z
 justification: Test prop
 submittingStakeholderGitServerUsername: ribose-jeffreylau
 items:
@@ -9,6 +9,8 @@ items:
   /concept/9131d6df-27e8-478e-b354-e46b9c10497b.yaml:
     type: addition
   /localized-concept/3fe334eb-bc0f-408c-9656-107d26128dc4.yaml:
+    type: addition
+  /localized-concept/55a0a619-19b3-48a6-93fc-d898e465877b.yaml:
     type: addition
 state: draft
 registerVersion: '1'
