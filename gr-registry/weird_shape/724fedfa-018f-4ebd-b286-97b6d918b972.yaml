@@ -1,19 +1,21 @@
+---
+id: 724fedfa-018f-4ebd-b286-97b6d918b972
 data:
   aliases:
   - Hayford 1909
-  description: null
+  description:
   identifier: 31
   informationSources:
   - author: W Torge, J. Muller
     edition: Fourth
-    editionDate: null
-    isbn: null
-    issn: null
-    otherDetails: null
+    editionDate:
+    isbn:
+    issn:
+    otherDetails:
     publisher: Walter de Gruyter GmbH, Berlin
-    seriesIssueID: null
-    seriesName: null
-    seriesPage: null
+    seriesIssueID:
+    seriesName:
+    seriesPage:
     title: Geodesy
     uuid: c3d97293-5b73-4f55-98bb-c5cfc7affc64
   inverseFlattening: 297.0
@@ -23,8 +25,7 @@ data:
   remarks: 'Adopted by IUGG 1924 in Madrid. Based on Hayford 1909/1910 figures. '
   semiMajorAxis: 6378388.0
   semiMajorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-  semiMinorAxis: null
+  semiMinorAxis:
   semiMinorAxisUoM: 932dce03-daeb-4762-ac71-81c69c41746b
-dateAccepted: 2018-11-17
-id: 724fedfa-018f-4ebd-b286-97b6d918b972
 status: valid
+dateAccepted: 2018-11-17
