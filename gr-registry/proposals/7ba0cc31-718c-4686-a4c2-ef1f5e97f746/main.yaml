@@ -1,0 +1,20 @@
+submittingStakeholderGitServerUsername: ribose-jeffreylau
+registerVersion: ''
+id: 7ba0cc31-718c-4686-a4c2-ef1f5e97f746
+timeStarted: '2025-01-02T13:44:34.472Z'
+timeEdited: '2025-01-02T13:44:34.472Z'
+state: draft
+justification: imported from converter
+items:
+  /datums--geodetic/c1c1c248-73c2-4002-ab1f-5bef3554425f.yaml:
+    type: addition
+  /crs--geodetic/20af34d3-0bf6-4c46-b39a-0a18d0613b6f.yaml:
+    type: addition
+  /crs--geodetic/95925ad7-a611-4aa7-843e-ac1407492ef9.yaml:
+    type: addition
+  /crs--geodetic/36c558c1-7f0a-49e7-8db5-ffa0ca39d08e.yaml:
+    type: addition
+  /coordinate-ops--transformation/1ac17042-8e21-4529-908d-03f4308db227.yaml:
+    type: addition
+  /coordinate-ops--transformation/b85ecd08-c4af-4b89-a97e-65b8d26c916f.yaml:
+    type: addition
