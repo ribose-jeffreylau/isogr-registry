@@ -1,0 +1,30 @@
+submittingStakeholderGitServerUsername: ribose-jeffreylau
+registerVersion: ''
+id: ec5de365-a342-4efa-b9bd-305fa3202130
+timeStarted: '2025-01-02T08:22:15.845Z'
+timeEdited: '2025-01-02T08:22:15.845Z'
+state: draft
+justification: imported from converter
+items:
+  /coordinate-ops--transformation/5dbdc617-eced-4630-95c6-11ce82e85cf7.yaml:
+    type: addition
+  /coordinate-ops--transformation/5afa5c8a-6c33-4f0e-9c02-8aae7dc1b2ae.yaml:
+    type: addition
+  /coordinate-ops--transformation/e73773ae-05e4-4a67-bb7f-743c3b1eb38f.yaml:
+    type: addition
+  /coordinate-ops--transformation/e22810d4-9e91-443b-94ab-18a6393a9d00.yaml:
+    type: addition
+  /coordinate-ops--transformation/e199aafb-5282-4078-ba87-ad0dc26038ea.yaml:
+    type: addition
+  /coordinate-ops--transformation/b45d91be-4e3b-49fc-9ac6-40c73ac16fe2.yaml:
+    type: addition
+  /coordinate-ops--transformation/26ac5a33-5a0d-427f-a200-beedcbab9a1d.yaml:
+    type: addition
+  /coordinate-ops--transformation/27b1c9a8-b6cb-4790-8bdc-71d902926fec.yaml:
+    type: addition
+  /coordinate-ops--transformation/f080ae7b-cb9a-4ef8-9550-f3394b9794a4.yaml:
+    type: addition
+  /coordinate-ops--transformation/6cff08bd-ad4b-41fb-9428-6db3eb4cce9c.yaml:
+    type: addition
+  /coordinate-ops--transformation/abb8374f-0b5a-4f00-b7b6-f03c17193e0c.yaml:
+    type: addition
