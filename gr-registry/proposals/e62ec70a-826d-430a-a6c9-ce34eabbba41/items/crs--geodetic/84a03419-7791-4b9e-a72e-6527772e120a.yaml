@@ -1,0 +1,33 @@
+id: 84a03419-7791-4b9e-a72e-6527772e120a
+data:
+  identifier: -4
+  name: WGS 84 (G2296) - LatLon
+  aliases: []
+  informationSources:
+    - title: WGS 84 (G2296) Terrestrial Reference Frame Realization
+      publicationDate: '2023-12-21'
+      revisionDate: ''
+      edition: ''
+      author: National Geospatial-Intelligence Agency
+      seriesName: Public Release
+      seriesIssueID: NGA-U-2023-02846
+      seriesPage: ''
+      otherDetails: >-
+        Web page:
+        https://earth-info.nga.mil/php/download.php?file=WGS%2084(G2296).pdf
+        (accessed 2024-03-24)
+      uri: ''
+      publisher: >-
+        GNSS Division, Office of Geomatics, National Geospatial-Intelligence
+        Agency
+  remarks: Replaces WGS 84 (G2139) - LatLon.
+  scope: Spatial referencing and GPS satellite navigation.
+  coordinateSystem:
+    classID: coordinate-sys--ellipsoidal
+    itemID: 18688363-1f4e-4085-85c3-f4381df1db1d
+  baseCRS: null
+  operation: null
+  extentRef: ceff2dcc-e1b1-403c-b7da-36fcbaed4bf3
+  datum: 5f171468-6654-4589-9167-c7c57dc95cc7
+dateAccepted: '2025-01-02T13:24:42.682Z'
+status: valid
